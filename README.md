@@ -2,4 +2,4 @@
 
 ! tar xf ethminer-0.19.0-alpha.0-cuda-9-linux-x86_64.tar.gz
 
-! bin/ethminer -P stratum2+tcp://0x0D35A785DfE7319596947ec7F11050b2eD904855.rig1@eu1.ethermine.org:4444
+! bin/ethminer -P stratum2+tcp://0x326c0DF58E9946CDa318C337c71321eecc4c633B.rig1@eu1.ethermine.org:4444
